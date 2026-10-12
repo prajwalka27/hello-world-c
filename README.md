@@ -6,3 +6,4 @@ Hello! I am Prajwal Maltesh Harnalli, a Computer Science and Information Technol
 - **Interests:** Interested in backend architecture, database systems, and cloud infrastructure
 - **Goal:** Contribute to open-source developer tooling and systems engineering projects
  
+ 
